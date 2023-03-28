@@ -1,2 +1,1 @@
-# Prep-course-Henry-M2
-Este en un repositorio del prep course 
+Este proyecto es una prueba para crear un repositorio y clonarlo desde la terminal GIT
